@@ -1,3 +1,19 @@
-#logo {
-    
+#heading {
+    height: 50px;  
+    width: 1264px; 
+    background-color: red;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.start {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    align-items: center;
+}
+p {
+    color: white;
+    font-size: 20;
 }
